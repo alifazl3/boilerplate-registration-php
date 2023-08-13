@@ -1,0 +1,16 @@
+.idea/
+logs
+*.log
+vendor/
+.npm
+*.tgz
+*.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+dump.rdb
+.env
