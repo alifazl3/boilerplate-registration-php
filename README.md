@@ -41,5 +41,6 @@ this is simple php project with routing and registration to make mush more simpl
 - make password hash in database
 - add more fields for each user such as email phone .....
 - two step verification
+- forget password
 
 
